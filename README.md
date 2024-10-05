@@ -7,7 +7,7 @@ A passionate Full Stack developer working with MERN (MongoDB, Express, React, No
 ### 🏅 GitHub Badges:
 
 <!-- Commits Badge -->
-![Commits](https://img.shields.io/badge/Commits-114pt-green?style=flat-square&logo=github)
+![Commits](https://img.shields.io/badge/Commits-10pt-green?style=flat-square&logo=github)
 <!-- Repositories Badge -->
 ![Repositories](https://img.shields.io/badge/Repositories-28pt-orange?style=flat-square&logo=github)
 <!-- Experience Badge -->
