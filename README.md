@@ -30,15 +30,15 @@ A passionate Full Stack developer working with MERN (MongoDB, Express, React, No
 - React.js, Node.js, MongoDB, Express.js
 
 ### 📧 How to reach me:
-- **Email:** [youremail@example.com](mailto:youremail@example.com)
+- **Email:** [youremail@example.com](mailto:shahnawajh004@gmail.com)
 
 ---
 
 ### 📱 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=flat-square&logo=instagram)](https://instagram.com/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-lightblue?style=flat-square&logo=twitter)](https://twitter.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shahnawajh11/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=flat-square&logo=instagram)](https://www.instagram.com/iam.hussain_/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-lightblue?style=flat-square&logo=twitter)](https://x.com/xkPQz9mS5xtTXjL)
 
 ---
 
