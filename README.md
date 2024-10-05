@@ -1,6 +1,6 @@
 # Hi, I'm Shahnawaj Hussain 👋
 
-A passionate Full Stack developer working with MERN (MongoDB, Express, React, Node.js) from [Your Location].
+A passionate Full Stack developer working with MERN (MongoDB, Express, React, Node.js) from India.
 
 ---
 
